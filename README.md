@@ -20,7 +20,7 @@ The theme: presidents and countries is just to get concrete data for the paginat
 
 Let's go to the main file: pagination, because this is what I want to explain to learn more about.
 
-I'll just take the country flie, which has a join with the table of presidents.
+I'll just take the country file, which has a join with the table of presidents.
 
 ### Countries:
 
